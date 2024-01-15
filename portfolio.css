@@ -83,9 +83,11 @@
     font-size: xx-large;
     margin-left: 20px;
 }
-.txt14{
+
+.txt14 {
     margin-left: 25px;
 }
+
 .img2 {
     display: flex;
     justify-content: center;
@@ -93,12 +95,27 @@
     height: 5%;
     width: 95vh;
     "width: 540px;
-     height: 550px;
+ height: 550px;
 }
 
-.btn1{
+.btn1 {
     padding: 10px 20px;
     border: none;
     color: white;
     background-color: #ff5400;
+}
+
+.txt15 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt16 {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.img3{
+    display: flex;
+    justify-content: center;
 }
