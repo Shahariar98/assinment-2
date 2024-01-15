@@ -1,0 +1,29 @@
+.txt {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+}
+
+.txt2 {
+    display: flex;
+    margin-right: 15%;
+    align-items: center;
+}
+
+.txt3 {
+    margin-left: 10%;
+}
+.txt4{
+    color: #ff5400;
+}
+.txt5 {
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: 20px;
+}
+.txt6{
+    color: #ff5400;
+}
+.img {
+    display: flex;
+}
