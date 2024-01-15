@@ -1,12 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 .txt {
     display: flex;
     justify-content: space-between;
     margin-left: 5%;
+    /* gap: 100px; */
+    font-family: "Mulish", sans-serif;
+
 }
 
 .txt2 {
     display: flex;
-    margin-right: 15%;
+    margin-right: 11%;
     align-items: center;
 }
 
@@ -24,10 +28,6 @@
     margin-left: 20px;
 }
 
-.img {
-    margin-top: 10%;
-    height: 35px;
-}
 
 .txt6 {
     display: flex;
@@ -41,8 +41,8 @@
 .txt8 {
     text-align: center;
     color: #fff;
-    font-size: 35px;
-    font-weight: bolder;
+    font-size: 64px;
+    font-weight: 800px;
     background-color: transparent;
     display: flex;
     flex-direction: column;
@@ -52,16 +52,25 @@
 }
 
 .txt9 {
+    background-position: top center;
+    font-family: "Mulish", sans-serif;
+    height: 720px;
+    width: 1720px;
+    /* margin-right: 60px; */
+    margin-top: 30px;
     align-items: center;
     justify-content: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(images/Group\ 13\ \(1\)\ \(1\).png)
+    background-image: url(images/Group\ 13\ \(1\)\ \(1\).png);
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+   
 }
 
 .txt10 {
     align-items: center;
     justify-content: center;
+    padding: 10px 20px;
 }
 
 .txt11 {
@@ -69,6 +78,7 @@
     align-items: center;
     justify-content: center;
     border: transparent;
+    /* margin-left: 1rem; */
 }
 
 .txt12 {
@@ -76,6 +86,7 @@
     margin-left: 5%;
     justify-content: space-between;
     margin-top: 120px;
+    font-family: "Mulish", sans-serif;
 }
 
 .txt13 {
@@ -85,7 +96,8 @@
 }
 
 .txt14 {
-    margin-left: 25px;
+    /* margin-left: 25px; */
+    margin-top: 1.5rem;
 }
 
 .img2 {
@@ -94,8 +106,8 @@
     align-items: center;
     height: 5%;
     width: 95vh;
-    "width: 540px;
- height: 550px;
+    width: 540px;
+    height: 550px;
 }
 
 .btn1 {
@@ -115,7 +127,62 @@
     font-weight: bolder;
     font-size: xx-large;
 }
-.img3{
+
+.img3 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.txt17 {
+    /* padding: 100px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt18 {
+    background: #222121b3;
+    height: 720px;
+    width: 1720px;
+    position: absolute;
+    border-radius: 20px;
+
+   
+}
+.txt19{
+   position: relative;
+   top :30%;
+}
+.txt20{
+    display: flex;
+    align-items: center;
+    padding:  20px;
+    border: none;
+    color: white;
+    background-color: #ff5400;
+    gap: 5px;
+    border-radius: 10px;
+    margin-left: .5rem;
+}
+.txt21{
+    padding: 20px;
+    border-radius: 10px;
+}
+.txt22{
+    padding: 20px;
+    border-radius:10px ;
+
+}
+.txt23{
+    padding: 20px;
+    border-radius: 10px ;
+}
+.txt24{
+    /* margin-top: 1.5rem; */
+    gap: 40px;
     display: flex;
     justify-content: center;
 }
