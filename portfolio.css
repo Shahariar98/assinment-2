@@ -21,9 +21,11 @@
     font-size: x-large;
     margin-left: 20px;
 }
-.txt6{
-    color: #ff5400;
+.img{
+    /* align-items: center; */
+    margin-top: 10%;
+    height: 35px;
 }
-.img {
+.txt6 {
     display: flex;
 }
