@@ -375,3 +375,46 @@
     border-radius: 8px;
     background: rgba(19, 19, 24, 0.05);
 }
+
+
+.txt40 {
+    background-image: url('../Images/Rectangle\ 8\ \(1\).png');
+    width: 672px;
+    height: 422px;
+    margin-left: 24px;
+    border-radius: 16px;
+}
+
+.txt41 {
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 20px;
+    margin-top: 250px;
+}
+
+.txt42 {
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 40px;
+}
+
+.img5 {
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    margin-left: 290px;
+}
