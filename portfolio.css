@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
 .txt {
     display: flex;
     justify-content: space-between;
@@ -64,7 +65,7 @@
     background-repeat: no-repeat;
     background-image: url(images/Group\ 13\ \(1\)\ \(1\).png);
     box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
-   
+
 }
 
 .txt10 {
@@ -121,6 +122,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .txt16 {
@@ -136,7 +138,7 @@
 }
 
 .txt17 {
-    /* padding: 100px; */
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -150,16 +152,18 @@
     position: absolute;
     border-radius: 20px;
 
-   
+
 }
-.txt19{
-   position: relative;
-   top :30%;
+
+.txt19 {
+    position: relative;
+    top: 30%;
 }
-.txt20{
+
+.txt20 {
     display: flex;
     align-items: center;
-    padding:  20px;
+    padding: 20px;
     border: none;
     color: white;
     background-color: #ff5400;
@@ -167,22 +171,51 @@
     border-radius: 10px;
     margin-left: .5rem;
 }
-.txt21{
+
+.txt21 {
     padding: 20px;
     border-radius: 10px;
 }
-.txt22{
+
+.txt22 {
     padding: 20px;
-    border-radius:10px ;
+    border-radius: 10px;
 
 }
-.txt23{
+
+.txt23 {
     padding: 20px;
-    border-radius: 10px ;
+    border-radius: 10px;
 }
-.txt24{
-    /* margin-top: 1.5rem; */
+
+.txt24 {
     gap: 40px;
     display: flex;
     justify-content: center;
+}
+
+.txt25 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Mulish", sans-serif;
+}
+.txt26{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  
+}
+.txt27{
+    background-color:  rgba(19, 19, 24, 0.05);
+    margin-top: 100px;
+}
+.txt28{
+    margin-left: 20px;
+}
+.h{
+    width: 1200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
