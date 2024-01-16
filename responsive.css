@@ -1,0 +1,182 @@
+@media screen and (max-width: 600px) {
+    .txt {
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+
+    .txt2 {
+        margin-right: 0;
+        margin-top: 10px;
+    }
+
+    .txt3 {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .txt9 {
+        height: 120px;
+        padding: 20px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url(images/Group\ 13\ \(1\)\ \(1\).png);
+
+    }
+
+    .txt18 {
+        width: 100%;
+    }
+
+    .txt19 {
+        text-align: center;
+    }
+
+    .txt8 {
+        font-size: 28px;
+    }
+
+    .txt7 {
+        font-size: 16px;
+    }
+
+    .txt11 {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .txt21,
+    .txt22,
+    .txt23 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .txt20 {
+        width: 100%;
+    }
+
+    .txt6 {
+        margin-bottom: 20px;
+    }
+
+    .txt9 {
+        width: 100%;
+        margin-top: 20px;
+        height: auto;
+    }
+
+    .txt11 {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .txt12 {
+
+        flex-direction: column;
+        margin-left: 0;
+        margin-top: 500px;
+
+    }
+
+    .img2 {
+        width: 100%;
+        height: auto;
+    }
+
+    .btn1 {
+        margin-top: 20px;
+    }
+
+    .txt14 {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .img3 {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .txt17 {
+        margin-top: 20px;
+    }
+
+    .txt18 {
+        height: auto;
+    }
+
+    .txt24 {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .txt27 {
+        margin-top: 20px;
+    }
+
+    .txt28 {
+        margin-left: 0;
+    }
+
+    .h {
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .b3 {
+        flex-direction: column;
+    }
+
+    .b4 {
+        margin-top: 20px;
+    }
+
+    .txt32 {
+        margin-top: 20px;
+    }
+
+    .txt34 {
+        padding: 20px;
+    }
+
+    .txt36 {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .txt38 {
+        margin-top: 20px;
+    }
+
+    .in1 {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .txt40 {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .txt41 {
+        margin-top: 20px;
+    }
+
+    .txt42 {
+        margin-left: 0;
+    }
+
+    .img5 {
+        margin-left: 0;
+    }
+}
